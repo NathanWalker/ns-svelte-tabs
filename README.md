@@ -15,6 +15,6 @@ npm run ios
 For clarity and thoroughness, this shows 2 ways to handle accessory views.
 Use NativeScript via TypeScript directly or use Swift. Choice is yours.
 
-- NativeScript creation: https://github.com/NathanWalker/ns-svelte-tabs/blob/2147d63b91bf31c920d82804fc42ec53c0fc7278/app/components/tab-customize.ts#L49
+- NativeScript creation: https://github.com/NathanWalker/ns-svelte-tabs/blob/d8d5d57ab7ebbdda182d2f2e111faf551c69e791/app/components/tab-customize.ts#L49
 - Swift creation: https://github.com/NathanWalker/ns-svelte-tabs/blob/main/App_Resources/iOS/src/Tabs.swift
-  - Which can be used here: https://github.com/NathanWalker/ns-svelte-tabs/blob/2147d63b91bf31c920d82804fc42ec53c0fc7278/src/components/tab-customize.ts#L110
+  - Which can be used here: https://github.com/NathanWalker/ns-svelte-tabs/blob/d8d5d57ab7ebbdda182d2f2e111faf551c69e791/app/components/tab-customize.ts#L96
